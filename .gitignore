@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Data and models (keep them local, not on GitHub)
+data/
+models/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
